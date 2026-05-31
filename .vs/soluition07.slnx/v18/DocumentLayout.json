@@ -1,10 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\malak\\Downloads\\soluition07\\soluition07\\",
+  "WorkspaceRootPath": "C:\\Users\\malak\\OneDrive\\Desktop\\soluition07\\soluition07\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0A08526F-EC00-44D7-B0EF-674995AA696D}|project01\\project01.csproj|c:\\users\\malak\\downloads\\soluition07\\soluition07\\project01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A08526F-EC00-44D7-B0EF-674995AA696D}|project01\\project01.csproj|solutionrelative:project01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|c:\\users\\malak\\onedrive\\desktop\\soluition07\\soluition07\\project01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|solutionrelative:project01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\malak\\OneDrive\\Desktop\\soluition07\\soluition07\\project01\\Migrations\\20260531051557_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:project01\\Migrations\\20260531051557_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|c:\\users\\malak\\onedrive\\desktop\\soluition07\\soluition07\\project01\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|solutionrelative:project01\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|c:\\users\\malak\\onedrive\\desktop\\soluition07\\soluition07\\project01\\models\\train.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|solutionrelative:project01\\models\\train.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|c:\\users\\malak\\onedrive\\desktop\\soluition07\\soluition07\\project01\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|solutionrelative:project01\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|c:\\users\\malak\\onedrive\\desktop\\soluition07\\soluition07\\project01\\models\\station.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|solutionrelative:project01\\models\\station.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|c:\\users\\malak\\onedrive\\desktop\\soluition07\\soluition07\\project01\\project01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|solutionrelative:project01\\project01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +38,95 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20260531051557_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\malak\\OneDrive\\Desktop\\soluition07\\soluition07\\project01\\Migrations\\20260531051557_InitialCreate.cs",
+              "RelativeDocumentMoniker": "project01\\Migrations\\20260531051557_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\malak\\OneDrive\\Desktop\\soluition07\\soluition07\\project01\\Migrations\\20260531051557_InitialCreate.cs",
+              "RelativeToolTip": "project01\\Migrations\\20260531051557_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T05:15:57.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\malak\\OneDrive\\Desktop\\soluition07\\soluition07\\project01\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "project01\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\malak\\OneDrive\\Desktop\\soluition07\\soluition07\\project01\\AppDbContext.cs",
+              "RelativeToolTip": "project01\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T05:15:13.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\malak\\OneDrive\\Desktop\\soluition07\\soluition07\\project01\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "project01\\Models\\Ticket.cs",
+              "ToolTip": "C:\\Users\\malak\\OneDrive\\Desktop\\soluition07\\soluition07\\project01\\Models\\Ticket.cs",
+              "RelativeToolTip": "project01\\Models\\Ticket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T05:08:18.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Train.cs",
+              "DocumentMoniker": "C:\\Users\\malak\\OneDrive\\Desktop\\soluition07\\soluition07\\project01\\Models\\Train.cs",
+              "RelativeDocumentMoniker": "project01\\Models\\Train.cs",
+              "ToolTip": "C:\\Users\\malak\\OneDrive\\Desktop\\soluition07\\soluition07\\project01\\Models\\Train.cs",
+              "RelativeToolTip": "project01\\Models\\Train.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T05:07:57.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Station.cs",
+              "DocumentMoniker": "C:\\Users\\malak\\OneDrive\\Desktop\\soluition07\\soluition07\\project01\\Models\\Station.cs",
+              "RelativeDocumentMoniker": "project01\\Models\\Station.cs",
+              "ToolTip": "C:\\Users\\malak\\OneDrive\\Desktop\\soluition07\\soluition07\\project01\\Models\\Station.cs",
+              "RelativeToolTip": "project01\\Models\\Station.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T05:03:02.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "project01",
+              "DocumentMoniker": "C:\\Users\\malak\\OneDrive\\Desktop\\soluition07\\soluition07\\project01\\project01.csproj",
+              "RelativeDocumentMoniker": "project01\\project01.csproj",
+              "ToolTip": "C:\\Users\\malak\\OneDrive\\Desktop\\soluition07\\soluition07\\project01\\project01.csproj",
+              "RelativeToolTip": "project01\\project01.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-31T05:00:43.929Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\malak\\Downloads\\soluition07\\soluition07\\project01\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\malak\\OneDrive\\Desktop\\soluition07\\soluition07\\project01\\Program.cs",
               "RelativeDocumentMoniker": "project01\\Program.cs",
-              "ToolTip": "C:\\Users\\malak\\Downloads\\soluition07\\soluition07\\project01\\Program.cs",
+              "ToolTip": "C:\\Users\\malak\\OneDrive\\Desktop\\soluition07\\soluition07\\project01\\Program.cs",
               "RelativeToolTip": "project01\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-31T04:51:08.087Z",
               "EditorCaption": ""
